@@ -1,5 +1,5 @@
 
-## Windows 10 STIG Remediation
+## Automated STIG Remediation Using PowerShell
 
 ---
 
